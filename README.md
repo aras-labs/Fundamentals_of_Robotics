@@ -74,14 +74,6 @@ We welcome contributions! If you're interested in enhancing this repository:
 
 Encountered an issue or have a question? Open an issue on our [GitHub repository](https://github.com/aras-labs/Fundamentals_of_Robotics/issues).
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## 📬 Contact
-
-For any questions or suggestions, feel free to open an issue or contact the repository maintainer at [hamid@cim.mcgill.ca](mailto:hamid@cim.mcgill.ca).
-
 ## 📎 Additional Resources
 
 - [Fundamentals of Robotics - GitHub Repository](https://github.com/aras-labs/Fundamentals_of_Robotics)
@@ -90,6 +82,14 @@ For any questions or suggestions, feel free to open an issue or contact the repo
 ## 📬 Feedback
 
 Readers are encouraged to report any issues or provide feedback to hamid@cim.mcgill.ca. Your input is valuable and will help improve future editions of the book.
+
+## 📬 Contact
+
+For any questions or suggestions, feel free to open an issue or contact the repository maintainer at [hamid@cim.mcgill.ca](mailto:hamid@cim.mcgill.ca).
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
