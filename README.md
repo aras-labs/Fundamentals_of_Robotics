@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-For any questions or suggestions, feel free to open an issue or contact the repository maintainer at [taghirad@kntu.ac.ir](mailto:taghirad@kntu.ac.ir).
+For any questions or suggestions, feel free to open an issue or contact the repository maintainer at [hamid@cim.mcgill.ca](mailto:hamid@cim.mcgill.ca).
 
 ## 📎 Additional Resources
 
