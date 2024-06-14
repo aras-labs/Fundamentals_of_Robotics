@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/aras-labs/Fundamentals_of_Robotics?style=social)](https://github.com/aras-labs/Fundamentals_of_Robotics/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/aras-labs/Fundamentals_of_Robotics)](https://github.com/aras-labs/Fundamentals_of_Robotics/issues)
 [![GitHub license](https://img.shields.io/github/license/aras-labs/Fundamentals_of_Robotics)](https://github.com/aras-labs/Fundamentals_of_Robotics/blob/main/LICENSE)
+![Visits Badge](https://badges.pufler.dev/visits/aras-labs/Fundamentals_of_Robotics)
 
 Welcome to the official repository for **"Fundamentals of Robotics: Practical Case Studies with Matlab & Python"** by Hamid D. Taghirad. This repository contains all the source codes in MATLAB and Python presented in the book, offering a hands-on approach to learning the fundamentals of robotics.
 
