@@ -19,40 +19,40 @@ Welcome to the official repository for **"Fundamentals of Robotics: Practical Ca
 - **Illustrative Examples**: Detailed examples help in visualizing complex concepts and enhance understanding.
 - **Exercises and Problems**: Each chapter includes exercises and problems to test the reader's understanding and application of the material.
 
-### Table of Contents
+## 📚 Chapters
 
-1. **Preliminary Studies**
-   - Introduction to Robotics
-   - Robot Components
-   - Robot Kinematic Structures
-   - Robotic Applications
+### Part I: Preliminaries
+1. **Introduction** - Overview of robotics and its applications.
+2. **Motion Description** - Fundamental concepts of motion in robotics, including rotation matrices, Euler angles, and homogeneous transformations.
+3. **Advanced Representations** - Detailed exploration of screw theory, quaternion representations, and linear/angular velocities.
 
-2. **Motion Description**
-   - Motion Representation in 3D Space
-   - Orientation and Position of a Point
-   - Homogeneous Transformation
+### Part II: Kinematics
+4. **Forward Kinematics** - Methods for determining the position and orientation of robot end-effectors.
+5. **Inverse Kinematics** - Techniques for computing the joint parameters that achieve a desired end-effector position.
+6. **Jacobian Matrix** - Analysis of the relationship between joint velocities and end-effector velocities.
+7. **Singularity and Dexterity** - Examination of robot configurations that lead to singularities and their implications.
 
-3. **Advanced Representations**
-   - Screw Theory
-   - Quaternion and Screw Representation
-   - Linear and Angular Velocities and Accelerations
+### Part III: Dynamics
+8. **Dynamics Analysis** - Comprehensive study of robot dynamics, including the formulation of dynamic equations.
+9. **Properties and Formulations in Dynamics** - Exploration of dynamic properties and their mathematical formulations.
+10. **Simulation and Calibration** - Methods for simulating robot dynamics and calibrating models to match real-world data.
 
-4. **Kinematics**
-   - Forward Kinematics
-   - Inverse Kinematics
-   - Denavit-Hartenberg Convention
-   - Screw-Based Methods
+### Part IV: Control
+11. **Linear Motion Control** - Design and implementation of linear controllers for robot motion control.
+12. **Nonlinear Motion Control** - Advanced nonlinear control strategies for robotics.
+13. **Force Control** - Techniques for controlling the force exerted by robots during interaction with their environment.
+14. **Impedance Control** - Methods for managing the dynamic interaction between robots and their surroundings through impedance control.
 
-5. **Jacobian Matrix**
-   - Definition and Derivation Methods
-   - Coordinate Transformation
-   - Static Force Analysis
+## 🤖 Book Features
 
-6. **Singularity and Dexterity**
-   - Singular Configurations
-   - Jacobian Matrix Decomposition
-   - Dexterity Measures
-   - Redundancy Resolution
+- **Theoretical Concepts:** Each chapter delves into specific aspects of robotics, providing thorough theoretical foundations.
+- **Practical Case Studies:** Application of concepts through detailed case studies on various industrial robots.
+- **MATLAB and Python:** Implementation of examples and exercises using MATLAB and Python, enhancing practical learning.
+- **Comprehensive Coverage:** From basic introductions to advanced control methods, the book covers a wide range of topics essential for robotics.
+
+## 💻 Code Repository
+
+This repository contains the MATLAB and Python code implementations discussed in the book. Each chapter's code is organized systematically for ease of use and reference. The code helps in reinforcing the theoretical concepts by providing practical examples and solutions.
 
 ## 📊 Repository Statistics
 
@@ -82,9 +82,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to open an issue or contact the repository maintainer at [taghirad@kntu.ac.ir](mailto:taghirad@kntu.ac.ir).
 
-## 🔗 Related Repositories
+## 📎 Additional Resources
 
-For more advanced topics and projects related to robotics, visit our [Robotics repository](https://github.com/aras-labs/Robotics).
+- [Fundamentals of Robotics - GitHub Repository](https://github.com/aras-labs/Fundamentals_of_Robotics)
+- For further reading, refer to [Robotics GitHub Repository](https://github.com/aras-labs/Robotics) for more resources and materials on robotics.
+
+## 📬 Feedback
+
+Readers are encouraged to report any issues or provide feedback to hamid@cim.mcgill.ca. Your input is valuable and will help improve future editions of the book.
 
 ---
 
