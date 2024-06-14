@@ -72,7 +72,7 @@ We welcome contributions! If you're interested in enhancing this repository:
 
 ## 🐛 Issues
 
-Encountered an issue or have a question? Open an issue on our [GitHub repository](https://github.com/aras-labs/Robotics/issues).
+Encountered an issue or have a question? Open an issue on our [GitHub repository](https://github.com/aras-labs/Fundamentals_of_Robotics/issues).
 
 ## 📜 License
 
