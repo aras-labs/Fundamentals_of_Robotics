@@ -60,9 +60,19 @@ Welcome to the official repository for **"Fundamentals of Robotics: Practical Ca
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aras-labs/Fundamentals_of_Robotics)
 ![GitHub language count](https://img.shields.io/github/languages/count/aras-labs/Fundamentals_of_Robotics)
 
-## 🤝 Contributing
+## 👨‍💻 Contributing
 
-We welcome contributions from the community. Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
+We welcome contributions! If you're interested in enhancing this repository:
+
+1. Fork the repository.
+2. Create a new branch (`feature/your_feature` or `bugfix/your_bugfix`).
+3. Implement your changes.
+4. Commit and push to your branch.
+5. Submit a pull request.
+
+## 🐛 Issues
+
+Encountered an issue or have a question? Open an issue on our [GitHub repository](https://github.com/aras-labs/Robotics/issues).
 
 ## 📜 License
 
